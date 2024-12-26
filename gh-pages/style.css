@@ -1,0 +1,30 @@
+body {
+    background-color: whitesmoke;
+}
+
+#main {
+    width: 40vw;
+    margin: 100px auto;
+}
+
+.container {
+    position: relative;
+}
+
+.btn {
+    position: absolute;
+    top: 50%;
+    border: none;
+}
+
+.btn:hover {
+    background-color: aquamarine;
+}
+
+.prev {
+    left: 1%;
+}
+
+.next {
+    right: 1%;
+}
